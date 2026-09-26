@@ -3,5 +3,3 @@
 3.AWS
 4.Devops
 5.ServiceNow
-6.AIML
-
